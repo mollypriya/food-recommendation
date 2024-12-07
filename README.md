@@ -76,6 +76,6 @@ This project is a **Personalized Food Recommendation System** designed to recomm
 ## Contact
 
 - **Email**: mollypriya2003@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/molly-priya)
+- **LinkedIn**: [mollypriya](https://www.linkedin.com/in/molly-priya)
 
 
